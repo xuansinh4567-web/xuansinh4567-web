@@ -27,8 +27,8 @@ Software Engineering student at FPT University 🇻🇳 💻
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuansinh467-web&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuansinh4567-web&show_icons=true&theme=radical&hide_border=true" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xuansinh467-web&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xuansinh4567-web&theme=radical&hide_border=true" />
 </p>
