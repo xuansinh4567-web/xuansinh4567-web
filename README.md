@@ -82,34 +82,24 @@
 
 ---
 
-### 📊 My GitHub Contributions & Stats
+### 📊 My GitHub Contributions Summary
 
-<div align="center">
-  <!-- Streak Stats Card -->
-  <a href="https://github.com/xuansinh4567-web">
-    <img src="https://streak-stats.demolab.com?user=xuansinh4567-web&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="48%" valign="middle" align="center">
+      <!-- Streak Stats Card (Bên trái) -->
+      <a href="https://github.com/xuansinh4567-web">
+        <img src="https://streak-stats.demolab.com?user=xuansinh4567-web&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="100%" />
+      </a>
+    </td>
+    <td width="52%" valign="middle" align="center">
+      <!-- Con rắn Contributions (Bên phải) -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuansinh4567-web/xuansinh4567-web/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuansinh4567-web/xuansinh4567-web/output/github-contribution-grid-snake.svg">
+        <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/xuansinh4567-web/xuansinh4567-web/output/github-contribution-grid-snake-dark.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<div align="center">
-  <!-- Stats & Top Languages -->
-  <a href="https://github.com/xuansinh4567-web">
-    <img src="https://github-readme-stats.vercel.app/api?username=xuansinh4567-web&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/xuansinh4567-web">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuansinh4567-web&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Langs" />
-  </a>
-</div>
-
----
-
-<p align="center">
-  <a href="mailto:xuansinh4567@gmail.com">
-    <img src="https://img.shields.io/badge/Email-xuansinh4567%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/xuansinh4567-web">
-    <img src="https://img.shields.io/badge/GitHub-xuansinh4567--web-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
