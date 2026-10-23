@@ -1,14 +1,3 @@
-# 👋 Hi there, I'm Mai Xuân Sinh!
-
-<p align="left">
-  <strong>Software Engineering student at FPT University</strong> 🟠🔵🟢
-</p>
-
-<p align="left">
-  I'm a passionate Software Engineering student who loves building modern web applications, solving real-world problems, and exploring new technologies. Always eager to learn, collaborate, and build impactful digital products.
-</p>
-
----
 
 ### 💻 Tech Stack
 
