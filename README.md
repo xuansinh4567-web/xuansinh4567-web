@@ -1,28 +1,37 @@
+### 👋 Hi there, I'm Mai Xuân Sinh!
+
+I'm a **Software Engineering student at FPT University** (Ho Chi Minh City) passionate about backend development, clean code architecture, and building scalable web applications.
+
+- 🌱 Currently seeking **Java Developer Intern** opportunities to contribute to real-world projects.
+- 💻 Focused on **Core Java, OOP, Spring Boot, RESTful APIs**, and relational databases (**SQL Server, MySQL, PostgreSQL**).
+- 🛠️ Enthusiastic about software quality & security using **JUnit, SonarQube, SpotBugs, and Snyk**.
+
+---
 
 ### 💻 Tech Stack
 
 <p align="left">
-  <!-- Languages -->
+  <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 <p align="left">
-  <!-- Tools & Databases -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <!-- Databases, Quality & Cloud -->
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -31,31 +40,27 @@
 
 <table width="100%">
   <tr>
-    <td width="33.3%" valign="top">
-      <h4>🎓 <a href="https://github.com/xuansinh4567-web/shareHSF">shareHSF</a></h4>
-      <p>Nền tảng chia sẻ tài liệu và hỗ trợ học tập dành cho sinh viên trường với giao diện thân thiện, tối ưu.</p>
+    <td width="50%" valign="top">
+      <h4>🏟️ <a href="https://github.com/DinDin2312/SWP391-team-4">Sports Center Management System</a></h4>
+      <p><b>Role:</b> Full-stack Developer</p>
+      <p>A comprehensive web platform for sports center management featuring course booking, online payments, health tracking, and a RAG-based AI module.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>🛒 <a href="https://github.com/xuansinh4567-web/SWP391-team-4">SWP391 Team 4</a></h4>
-      <p>Dự án môn học SWP391: Ứng dụng quản trị & thương mại hỗ trợ thanh toán trực tuyến và quản lý đơn hàng.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_&_Redux-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
     </td>
-    <td width="33.3%" valign="top">
-      <h4>💻 <a href="https://github.com/xuansinh4567-web">Personal Portfolio</a></h4>
-      <p>Trang web cá nhân giới thiệu các dự án nổi bật, kỹ năng lập trình và bài viết chia sẻ kinh nghiệm công nghệ.</p>
+    <td width="50%" valign="top">
+      <h4>💑 <a href="https://github.com/michaeltran8386/gowithbae-be">Go With Bae</a></h4>
+      <p><b>Role:</b> Backend & Deployment Developer</p>
+      <p>A couple date-spot recommendation web app utilizing real venue data, community voting, and multi-criteria filtering (price, rating, popularity). Designed PostgreSQL schemas on Supabase and deployed services to Render.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+      </p>
+      <p>
+        🔗 <a href="https://github.com/michaeltran8386/gowithbae-fe">Frontend Repo</a> | <a href="https://github.com/michaeltran8386/gowithbae-be">Backend Repo</a>
       </p>
     </td>
   </tr>
@@ -63,11 +68,11 @@
 
 ---
 
-### 📝 My Recent Articles & Notes
+### 🏆 Education & Highlights
 
-- 📄 [**Hành trình bắt đầu học ngành Kỹ thuật Phần mềm (Software Engineering)**](https://github.com/xuansinh4567-web) — *2024*
-- 📄 [**Kinh nghiệm làm việc nhóm và xây dựng dự án môn SWP391**](https://github.com/xuansinh4567-web) — *2024*
-- 📄 [**Xây dựng Full-stack Web Application từ con số 0 với React & Node.js**](https://github.com/xuansinh4567-web) — *2024*
+- 🎓 **Software Engineering Student** at **FPT University** (2024 – 2028) | **GPA: 3.30/4.0** (8.25/10)
+- 🏅 **Consecutive Honor Student** & Achieved **A grades** in OOP Programming modules
+- 📜 **Certifications:** *OOP in Java Specialization* | *Data Structures and Algorithms (UC San Diego)* | *Generative AI in Software Development (Amazon)*
 
 ---
 
@@ -76,13 +81,13 @@
 <table width="100%">
   <tr>
     <td width="48%" valign="top" align="center">
-      <!-- Streak Stats Card (Bên trái) -->
+      <!-- Streak Stats Card -->
       <a href="https://github.com/xuansinh4567-web">
         <img src="https://streak-stats.demolab.com?user=xuansinh4567-web&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="100%" />
       </a>
     </td>
     <td width="52%" valign="middle" align="center">
-      <!-- Con rắn Contributions (Bên phải) -->
+      <!-- Contributions Snake -->
       <p align="left" style="margin: 0 0 6px 10px; font-size: 13px; color: #8b949e;">
         &nbsp;&nbsp;📅 <b>Contributions in the last year (2025 – 2026)</b>
       </p>
