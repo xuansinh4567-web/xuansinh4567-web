@@ -40,27 +40,37 @@ I'm a **Software Engineering student at FPT University** (Ho Chi Minh City) pass
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏟️ <a href="https://github.com/DinDin2312/SWP391-team-4">Sports Center Management System</a></h4>
+    <td width="33.3%" valign="top">
+      <h4>🏟️ <a href="https://github.com/DinDin2312/SWP391-team-4">Sports Center System</a></h4>
       <p><b>Role:</b> Full-stack Developer</p>
-      <p>A comprehensive web platform for sports center management featuring course booking, online payments, health tracking, and a RAG-based AI module.</p>
+      <p>Web platform for sports center management featuring course booking, online payments, health tracking, and a RAG-based AI module.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
         <img src="https://img.shields.io/badge/React_&_Redux-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
+      <h4>☕ <a href="https://github.com/hayhs1234/HSF302-Project">HSF302 Java Project</a></h4>
+      <p><b>Role:</b> Java Backend Developer</p>
+      <p>Enterprise Java web application built with Spring Framework & Hibernate ORM, focusing on layered architecture, JPA data persistence, and business logic.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
       <h4>💑 <a href="https://github.com/michaeltran8386/gowithbae-be">Go With Bae</a></h4>
-      <p><b>Role:</b> Backend & Deployment Developer</p>
-      <p>A couple date-spot recommendation web app utilizing real venue data, community voting, and multi-criteria filtering (price, rating, popularity). Designed PostgreSQL schemas on Supabase and deployed services to Render.</p>
+      <p><b>Role:</b> Backend & Deployment</p>
+      <p>Couple date-spot recommendation web app with real venue data, voting, and multi-criteria filtering. Configured Supabase (PostgreSQL) & Render deployment.</p>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
       </p>
       <p>
-        🔗 <a href="https://github.com/michaeltran8386/gowithbae-fe">Frontend Repo</a> | <a href="https://github.com/michaeltran8386/gowithbae-be">Backend Repo</a>
+        🔗 <a href="https://github.com/michaeltran8386/gowithbae-fe">FE Repo</a> | <a href="https://github.com/michaeltran8386/gowithbae-be">BE Repo</a>
       </p>
     </td>
   </tr>
