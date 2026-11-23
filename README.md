@@ -52,7 +52,7 @@ I'm a **Software Engineering student at FPT University** (Ho Chi Minh City) pass
     </td>
     <td width="33.3%" valign="top">
       <h4>☕ <a href="https://github.com/hayhs1234/HSF302-Project">Study Hub</a></h4>
-      <p><b>Role:</b> Java Backend Developer</p>
+      <p><b>Role:</b> Backend & AI Integration Developer</p>
       <p>Enterprise Java web application built with Spring Framework & Hibernate ORM, focusing on layered architecture, JPA data persistence, and business logic.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
